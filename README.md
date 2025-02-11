@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming IOT devices and softwares
 - 🌱 I’m currently learning python, SQL, Node.js, typescript, C++ and C#
 - 💞️ I’m looking to collaborate on IOT projects especially ESP32, any IOT device or arduino related.
+- ;*) I'm also a long time PLC programmer experienced with omron, ABB rockwell RS logix 500, 5000 studio 5000 and factory talk.
 - 📫 How to reach me through Linked In : http://linkedin.com/in/eliaquim-almeida-306a131a8
 
 <!---
